@@ -1,2 +1,2 @@
-### To build the software use the Go compiler:
+### To build the software using the Go compiler:
 ```go build main.go```
